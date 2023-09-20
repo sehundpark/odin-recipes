@@ -1,0 +1,45 @@
+/* styles.css */
+
+.title {
+    color: rgb(0, 0, 0);
+    background-color: rgb(236, 243, 206);
+    font-size: 28px;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 7.5em;
+    border: 3px solid green;
+}
+
+.welcome {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: black;
+    display: block;
+    background: rgb(170, 255, 170);
+    border: dotted rgb(57, 79, 204) 4px;
+    margin: 10px 15px;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.header1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 22px;
+    display: block;
+    background: pink;
+    margin: 10px 15px;
+    padding: 5px 5px;
+}
+
+.text {
+    color: black;
+    background-color: rgb(157, 247, 148);
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid burlywood 4px;
+    margin: -2px 15px;
+    padding: 5px 5px;
+}
